@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 I am a recent graduate from BITS Pilani, Goa Campus, India with a Bachelor of Engineering (B.E.) in Computer Science.  
   
-I work as a Machine Learning Engineer at Upload AI and as a Research Assistant at The Laboratory of Low Vision and Brain Research, Northeastern University
+I work as a Research Assistant at The Laboratory of Low Vision and Brain Research, Northeastern University.
 
 - 🔭 I’m currently working on understanding human vision.
 - 🌱 I’m currently learning Reinforcement Learning.
-- 📫 How to reach me: alish.dipani@{gmail.com, uploadai.com, bcm.edu} or a.dipani@{northeastern.edu}
+- 📫 How to reach me: alish.dipani@{gmail.com} or a.dipani@{northeastern.edu}
 - 😄 Pronouns: He/Him
 
 ![Alish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishdipani&count_private=true&show_icons=true)
