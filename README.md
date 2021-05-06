@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a recent graduate from BITS Pilani, Goa Campus, India with a Bachelor of Engineering (B.E.) in Computer Science.  
   
-I work as a Research Assistant at The Laboratory of Low Vision and Brain Research, Northeastern University.
+I work as a Project Assistant at [The National Brain Research Centre, India](http://www.nbrc.ac.in/newweb/research/groups/Nivethida/) and as a Research Assistant at [The Laboratory of Low Vision and Brain Research, Northeastern University](https://kwonlab.sites.northeastern.edu/).
 
 - 🔭 I’m currently working on understanding human vision.
 - 🌱 I’m currently learning Reinforcement Learning.
