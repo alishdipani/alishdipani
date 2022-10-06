@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/alishdipani/count.svg)
 
 
-I am a Psychology PhD student at Northeastern University advised by [Dr. MiYoung Kwon](https://kwonlab.sites.northeastern.edu/).
+I am a Psychology PhD student at Northeastern University advised by [Dr. MiYoung Kwon](https://kwonlab.sites.northeastern.edu/) at [The Laboratory of Low Vision and Brain Research](https://kwonlab.sites.northeastern.edu/). I am working on understanding human visual perception using computational approaches.
 
 - 🔭 I’m currently working on understanding human vision.
 - 🌱 I’m currently learning Reinforcement Learning.
