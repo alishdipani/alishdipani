@@ -25,5 +25,5 @@ I am a Psychology PhD student at Northeastern University advised by [Dr. MiYoung
 - 📫 How to reach me: alish.dipani@{gmail.com} or dipani.a@{northeastern.edu}
 - 😄 Pronouns: He/Him
 
-![Alish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishdipani&count_private=true&show_icons=true)
+<!-- ![Alish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishdipani&count_private=true&show_icons=true) -->
 
