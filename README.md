@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on understanding human vision.
 - 🌱 I’m currently learning Reinforcement Learning.
-- 📫 How to reach me: alish.dipani@{gmail.com} or dipani.a@{northeastern.edu}
+- 📫 How to reach me: alish.dipani@{gmail.com}
 - 😄 Pronouns: He/Him
 
 <!-- ![Alish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishdipani&count_private=true&show_icons=true) -->
